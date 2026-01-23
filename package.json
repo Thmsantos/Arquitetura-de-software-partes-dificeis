@@ -1,0 +1,24 @@
+{
+  "name": "arquitetura-de-software-partes-dificeis",
+  "version": "1.0.0",
+  "description": "Este repositório é dedicado à prática dos conceitos apresentados no livro   **“Software Architecture: The Hard Parts”**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thmsantos/Arquitetura-de-software-partes-dificeis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Thmsantos/Arquitetura-de-software-partes-dificeis/issues"
+  },
+  "homepage": "https://github.com/Thmsantos/Arquitetura-de-software-partes-dificeis#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.10"
+  }
+}
